@@ -43,6 +43,6 @@ User-friendly to-do list web application designed to simplify your task manageme
 ![Screenshot 1](image/Screenshot%201.png)
 ![Screenshot 2](image/Screenshot.png)
 
-# Shiv Shah <br>
+Developer : Shiv Shah <br>
 
 Linkedin : `https://www.linkedin.com/in/shivshah19/`
