@@ -8,12 +8,10 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## About
 
-[Your Application Name] is a sleek and user-friendly to-do list web application designed to simplify your task management experience. Built with HTML, CSS, and JavaScript, it offers a seamless interface for adding and deleting tasks while providing an attractive and customizable environment.
+User-friendly to-do list web application designed to simplify your task management experience. Built with HTML, CSS, and JavaScript, it offers a seamless interface for adding and deleting tasks while providing an attractive.
 
 ## Key Features
 
